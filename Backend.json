@@ -1,7 +1,12 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
+    "itemGrants":
+    AthenaCharacter
+    AthenaDance
+    AthenaBackpack
+    AthenaGlider
+    ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
     "price": 1500
   },
   "daily2": {
