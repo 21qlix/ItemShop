@@ -1,6 +1,6 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_515_Athena_Commando_M_BarbequeLarry, 1000
+CID_703_Athena_Commando_M_Cyclone, 2000
+Pickaxe_ID_363_LollipopTricksterFemale, 2000
 na
 na
 na
